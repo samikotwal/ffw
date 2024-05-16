@@ -1,4 +1,5 @@
 class weel{
-    public static void main(SString[]args);
+    public static void main(String[]args) {
     System.out.println("hello");
+    }
 }
